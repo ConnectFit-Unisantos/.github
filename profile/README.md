@@ -13,7 +13,7 @@
 ---
 
 ## Visão Geral
-O **ConnectFit** é um aplicativo mobile (e/ou cliente) que permite que alunos descubram **personais** (ex.: por especialidade e localização), vejam informações de perfil e realizem a transição para o modo **Personal** ao preencher o onboarding profissional.
+O **ConnectFit** é um aplicativo mobile que permite que alunos descubram **personais** (ex.: por especialidade e localização), vejam informações de perfil e realizem a transição para o modo **Personal** ao preencher o onboarding profissional.
 
 A aplicação é composta por:
 - **Mobile (React Native)**: telas de listagem e perfil, autenticação e onboarding do personal.
