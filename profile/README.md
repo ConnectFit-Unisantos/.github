@@ -1,12 +1,12 @@
 # ConnectFit
 
 **Integrantes do Projeto:**
-- Guilherme Lima Carregã
-- Henrique Affonso Luz Rios
-- Mateus Barros de Almeida
-- Pedro Soares Simões
-- Rafael Longobardi Mineiro Varela
-- Rhuan Marcos de Oliveira Albuquerque
+- Guilherme Lima Carregã - guilherme.carrega@unisantos.br
+- Henrique Affonso Luz Rios - henrique.affonso@unisantos.br
+- Mateus Barros de Almeida - mateus.barros@unisantos.br
+- Pedro Soares Simões - pedro.simoes@unisantos.br
+- Rafael Longobardi Mineiro Varela - rafaelvarela@unisantos.br
+- Rhuan Marcos de Oliveira Albuquerque - rhuanmarcos@unisantos.br
 
 > Plataforma que conecta alunos a personal trainers qualificados de forma prática e eficiente.
 
